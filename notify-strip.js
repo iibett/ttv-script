@@ -1,4 +1,4 @@
-twitch-videoad.js application/javascript
+notify-strip.js application/javascript
 (function() {
     if ( /(^|\.)twitch\.tv$/.test(document.location.hostname) === false ) { return; }
     function declareOptions(scope) {
