@@ -1,4 +1,4 @@
-notify-vaft.js application/javascript
+notify-vaft.js text/javascript
 (function() {
     if ( /(^|\.)twitch\.tv$/.test(document.location.hostname) === false ) { return; }
     function declareOptions(scope) {
