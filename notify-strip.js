@@ -572,3 +572,5 @@ notify-vaft.js text/javascript
         });
     }
 })();
+
+
